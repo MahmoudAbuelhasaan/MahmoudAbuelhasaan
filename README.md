@@ -4,11 +4,12 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm <span style="color:#2ecc71;">Mahmoud Abuelhasaan</span></h1>
-<h3 align="center">💻 Python Backend Developer | 🤖 Generative AI Explorer | 🇪🇬 From Cairo, Egypt</h3>
+<h3 align="center">💻 Python Backend Developer | 🤖 Generative AI Explorer | 📍 Cairo, Egypt</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=2ECC71&center=true&vCenter=true&multiline=true&width=650&lines=Backend+Craftsman+%E2%9A%99%EF%B8%8F+with+Django%2C+Flask%2C+FastAPI;Generative+AI+Engineer+%F0%9F%A7%91%E2%80%8D%F0%9F%94%AC+LangChain%2C+LLMs%2C+VectorDBs;Building+Smart+%26+Scalable+Systems+Everyday" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2ECC71&center=true&width=600&lines=Backend+Craftsman+with+Django%2C+Flask%2C+FastAPI;LLM+Engineer+with+LangChain%2C+VectorDBs;Building+Intelligent%2C+Scalable+Apps" />
 </p>
+
 
 ---
 

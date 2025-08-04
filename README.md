@@ -53,7 +53,7 @@
 ### 🤖 AI, LLMs & Data Science
 
 <p>
-  <img src="https://raw.githubusercontent.com/dair-ai/awesome-llm/master/logo/langchain-logo.png" width="40" title="LangChain"/>
+  <img src="https://raw.githubusercontent.com/dair-ai/awesome-llm/master/logo/langchain-logo.png](https://cdn.brandfetch.io/idzf7Sjo28/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1751438886450" width="40" title="LangChain"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" title="scikit-learn"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" title="Pandas"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" title="NumPy"/>

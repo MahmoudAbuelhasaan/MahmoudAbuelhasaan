@@ -54,10 +54,10 @@
 
 <p>
   <img src="https://raw.githubusercontent.com/zahidkhawaja/langchain-icons/main/langchain-icon.png" width="40" title="LangChain"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/llama.svg" width="40" title="LLaMA"/>
+  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/LLaMA%20Logo%20-%20Color.png" width="40" title="LLaMA"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" title="Matplotlib"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" title="NumPy"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" title="Pandas"/>
-  <img src="https://matplotlib.org/_static/logo.png" width="40" title="Matplotlib"/>
 </p>
 
 ### 🗃️ Databases & Tools
@@ -77,7 +77,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" width="40" title="RabbitMQ"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="40" title="RabbitMQ"/>
 </p>
 
 

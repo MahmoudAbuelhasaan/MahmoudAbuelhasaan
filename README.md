@@ -53,11 +53,11 @@
 ### 🤖 AI, LLMs & Data Science
 
 <p>
-  <img src="https://raw.githubusercontent.com/dair-ai/awesome-llm/master/logo/langchain-logo.png](https://cdn.brandfetch.io/idzf7Sjo28/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1751438886450" width="40" title="LangChain"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" title="scikit-learn"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" title="Pandas"/>
+  <img src="https://raw.githubusercontent.com/zahidkhawaja/langchain-icons/main/langchain-icon.png" width="40" title="LangChain"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/llama.svg" width="40" title="LLaMA"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" title="NumPy"/>
-  <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" width="40" title="Matplotlib"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" title="Pandas"/>
+  <img src="https://matplotlib.org/_static/logo.png" width="40" title="Matplotlib"/>
 </p>
 
 ### 🗃️ Databases & Tools
@@ -65,8 +65,8 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" title="SQLite"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" title="SQL Server"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="40" title="SQL Server"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" title="SQLite"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" title="Redis"/>
 </p>
 
@@ -77,9 +77,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
-  <img src="https://www.rabbitmq.com/img/rabbitmq_logo.svg" width="40" title="RabbitMQ"/>
-  <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" width="40" title="Apache"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" width="40" title="RabbitMQ"/>
 </p>
+
 
 
 ---

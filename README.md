@@ -53,12 +53,13 @@
 ### 🤖 AI, LLMs & Data Science
 
 <p>
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/langchain.png" width="40"/>
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/llama.png" width="40"/>
+  <img src="https://cdn.brandfetch.io/idrRDmZ2_F/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1747744071325" width="40" title="LangChain"/>
+  <img src="https://cdn.brandfetch.io/idzf7Sjo28/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1751438886561" width="40" title="LLaMA"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" title="Matplotlib"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" title="NumPy"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" title="Pandas"/>
 </p>
+
 
 ### 🗃️ Databases & Tools
 

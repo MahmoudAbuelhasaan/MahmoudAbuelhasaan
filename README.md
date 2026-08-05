@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/github/followers/MahmoudAbuelhasaan?label=Followers&style=for-the-badge&color=2ecc71" />
 </p>
 
----
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:2ECC71,100:1B4F72&height=3&width=100%25" width="100%"/></p>
 
 ### ✨ Fun fact
 > 🧠 I speak fluent Python, broken JavaScript, and perfect "it works on my machine."
@@ -44,7 +44,7 @@
 
 <br clear="right"/>
 
----
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:2ECC71,100:1B4F72&height=3&width=100%25" width="100%"/></p>
 
 ## 🛠️ Tech Toolbox
 
@@ -90,17 +90,17 @@
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
 </p>
 
----
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:2ECC71,100:1B4F72&height=3&width=100%25" width="100%"/></p>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahmoudAbuelhasaan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudAbuelhasaan&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MahmoudAbuelhasaan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudAbuelhasaan&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoudAbuelhasaan&theme=tokyonight&hide_border=true" width="70%" />
+  <img src="https://streak-stats.demolab.com/?user=MahmoudAbuelhasaan&theme=tokyonight&hide_border=true" width="70%" />
 </p>
 
 <p align="center">
@@ -111,7 +111,19 @@
   <img src="https://github-profile-trophy.vercel.app/?username=MahmoudAbuelhasaan&theme=tokyonight&no-frame=true&row=1&margin-w=15&column=7" width="95%" />
 </p>
 
----
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:2ECC71,100:1B4F72&height=3&width=100%25" width="100%"/></p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MahmoudAbuelhasaan/MahmoudAbuelhasaan/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MahmoudAbuelhasaan/MahmoudAbuelhasaan/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/MahmoudAbuelhasaan/MahmoudAbuelhasaan/output/github-contribution-grid-snake.svg" width="95%" />
+  </picture>
+</p>
+
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:2ECC71,100:1B4F72&height=3&width=100%25" width="100%"/></p>
 
 ## 🎓 Education
 
@@ -119,14 +131,14 @@
 📍 *Luxor University*
 🗓️ *Oct 2018 – Jul 2022*
 
----
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:2ECC71,100:1B4F72&height=3&width=100%25" width="100%"/></p>
 
 ## 🌍 Languages
 
 - 🗣️ **Arabic** – Native
 - 🗣️ **English** – Professional Proficiency
 
----
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:2ECC71,100:1B4F72&height=3&width=100%25" width="100%"/></p>
 
 ## 📫 Let's Connect
 

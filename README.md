@@ -90,11 +90,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahmoudAbuelhasaan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudAbuelhasaan&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="48%" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=MahmoudAbuelhasaan&theme=tokyonight&hide_border=true" width="70%" />
 </p>
 

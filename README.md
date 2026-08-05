@@ -1,126 +1,141 @@
-<!-- HEADER BANNER -->
+<!-- ===================== HEADER WAVE ===================== -->
 <p align="center">
-  <img src="https://github.com/MahmoudAbuelhasaan/MahmoudAbuelhasaan/blob/main/Mahmoud%20Abuelhasaan.png" alt="banner" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ECC71,100:1B4F72&height=220&section=header&text=Mahmoud%20Abuelhasaan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Backend%20Developer%20%7C%20Generative%20AI%20Explorer&descAlignY=58&descSize=18" width="100%"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm <span style="color:#2ecc71;">Mahmoud Abuelhasaan</span></h1>
-<h3 align="center">💻 Python Backend Developer | 🤖 Generative AI Explorer | 📍 Cairo, Egypt</h3>
-
+<!-- ===================== PROFILE PHOTO ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2ECC71&center=true&width=600&lines=Backend+Craftsman+with+Django%2C+Flask%2C+FastAPI;LLM+Engineer+with+LangChain%2C+VectorDBs;Building+Intelligent%2C+Scalable+Apps" />
+  <img src="https://raw.githubusercontent.com/MahmoudAbuelhasaan/MahmoudAbuelhasaan/main/Mahmoud%20Abuelhasaan.png?v=2" width="180" style="border-radius:50%;" alt="Mahmoud Abuelhasaan"/>
 </p>
 
+<h3 align="center">💻 Python Backend Developer &nbsp;|&nbsp; 🤖 Generative AI Explorer &nbsp;|&nbsp; 📍 Cairo, Egypt</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2ECC71&center=true&vCenter=true&width=650&lines=Backend+Craftsman+with+Django%2C+Flask%2C+FastAPI;LLM+Engineer+with+LangChain+%26+VectorDBs;Building+Intelligent%2C+Scalable+Apps;Turning+Coffee+%E2%98%95+into+Clean+Code" />
+</p>
+
+<p align="center">
+  <a href="mailto:Mahmoud.Abuelhasaan@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mahmoud-abuelhasan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/MahmoudAbuelhasaan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MahmoudAbuelhasaan&label=Profile%20Views&color=2ecc71&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/MahmoudAbuelhasaan?label=Followers&style=for-the-badge&color=2ecc71" />
+</p>
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
+### ✨ Fun fact
+> 🧠 I speak fluent Python, broken JavaScript, and perfect "it works on my machine."
+
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
 
 ## 🧑‍💻 About Me
 
-- 🏢 Full-time Python Developer @ **Select** (since Jul 2023)  
-- 🌍 Part-time Django Backend Developer @ **bb4first** (Sep 2024 - May 2025)  
-- 🧠 I combine **Backend Engineering** with **Generative AI** to build robust, intelligent apps  
-- ⚙️ Passionate about **LangChain**, **LLMs**, and automating complex workflows  
-- ✍️ Always writing clean, maintainable, and scalable code  
+- 🏢 Full-time Python Developer @ **Select** (since Jul 2023)
+- 🌍 Part-time Django Backend Developer @ **bb4first** (Sep 2024 – May 2025)
+- 🧠 I combine **Backend Engineering** with **Generative AI** to build robust, intelligent apps
+- ⚙️ Passionate about **LangChain**, **LLMs**, and automating complex workflows
+- ✍️ Always writing clean, maintainable, and scalable code
 - 🎯 Currently exploring **AI + Backend integration** in real-world platforms
+- 📚 Always learning — currently deep-diving into **RAG pipelines & VectorDBs**
+
+<br clear="right"/>
 
 ---
 
 ## 🛠️ Tech Toolbox
 
-### 💻 Programming & Markup
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" title="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-### 🧱 Backend & Frameworks
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" title="Django"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" title="Flask"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" title="FastAPI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 </p>
 
-### 🤖 AI, LLMs & Data Science
-
-<p>
-  <img src="https://cdn.brandfetch.io/idrRDmZ2_F/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1747744071325" width="40" title="LangChain"/>
-  <img src="https://cdn.brandfetch.io/idzf7Sjo28/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1751438886561" width="40" title="LLaMA"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" title="Matplotlib"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" title="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" title="Pandas"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLaMA-0467DF?style=for-the-badge&logo=meta&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
 </p>
 
-
-### 🗃️ Databases & Tools
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="40" title="SQL Server"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" title="SQLite"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" title="Redis"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
 
-### 🚀 DevOps & Ecosystem
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="40" title="RabbitMQ"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
 </p>
-
-
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahmoudAbuelhasaan&show_icons=true&theme=radical" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudAbuelhasaan&layout=compact&theme=radical" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MahmoudAbuelhasaan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudAbuelhasaan&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoudAbuelhasaan&theme=radical" width="70%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoudAbuelhasaan&theme=tokyonight&hide_border=true" width="70%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MahmoudAbuelhasaan&theme=tokyo-night&hide_border=true" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MahmoudAbuelhasaan&theme=tokyonight&no-frame=true&row=1&margin-w=15&column=7" width="95%" />
 </p>
 
 ---
 
 ## 🎓 Education
 
-🎓 **Bachelor of Computer and Information**  
-📍 *Luxor University*  
+🎓 **Bachelor of Computer and Information**
+📍 *Luxor University*
 🗓️ *Oct 2018 – Jul 2022*
 
 ---
 
 ## 🌍 Languages
 
-- 🗣️ **Arabic** – Native  
+- 🗣️ **Arabic** – Native
 - 🗣️ **English** – Professional Proficiency
 
 ---
 
-## 📫 Let’s Connect
-
-<p align="left">
-  <a href="mailto:Mahmoud.Abuelhasaan@outlook.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/mahmoud-abuelhasan/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/MahmoudAbuelhasaan"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+## 📫 Let's Connect
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MahmoudAbuelhasaan&label=Profile%20Views&color=2ecc71&style=flat" />
+  <a href="mailto:Mahmoud.Abuelhasaan@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mahmoud-abuelhasan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/MahmoudAbuelhasaan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
+
+<!-- ===================== FOOTER WAVE ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B4F72,100:2ECC71&height=120&section=footer" width="100%"/>
+</content>

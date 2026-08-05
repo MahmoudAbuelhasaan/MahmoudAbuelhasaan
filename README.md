@@ -1,10 +1,6 @@
-<!-- ===================== BANNER ===================== -->
+<!-- ===================== HEADER WAVE ===================== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MahmoudAbuelhasaan/MahmoudAbuelhasaan/main/Mahmoud%20Abuelhasaan.png?v=2" width="100%" alt="Mahmoud Abuelhasaan"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2ECC71,100:1B4F72&height=4&width=100%25" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ECC71,100:1B4F72&height=220&section=header&text=Mahmoud%20Abuelhasaan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Backend%20Developer%20%7C%20Generative%20AI%20Explorer&descAlignY=58&descSize=18" width="100%"/>
 </p>
 
 <h3 align="center">💻 Python Backend Developer &nbsp;|&nbsp; 🤖 Generative AI Explorer &nbsp;|&nbsp; 📍 Cairo, Egypt</h3>

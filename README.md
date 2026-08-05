@@ -97,10 +97,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MahmoudAbuelhasaan&theme=tokyo-night&hide_border=true" width="95%" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MahmoudAbuelhasaan&theme=tokyonight&no-frame=true&row=1&margin-w=15&column=7" width="95%" />
-</p>
-
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:2ECC71,100:1B4F72&height=3&width=100%25" width="100%"/></p>
 
 ## 🐍 Contribution Snake
